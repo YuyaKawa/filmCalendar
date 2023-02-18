@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  theater_name: MyString
+  place: MyString
+  p_default: 1
+  p_first: 1
+  p_mon: 1
+  p_tue: 1
+  p_wed: 1
+  p_thu: 1
+  p_fri: 1
+
+two:
+  theater_name: MyString
+  place: MyString
+  p_default: 1
+  p_first: 1
+  p_mon: 1
+  p_tue: 1
+  p_wed: 1
+  p_thu: 1
+  p_fri: 1
